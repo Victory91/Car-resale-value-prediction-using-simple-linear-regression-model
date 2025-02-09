@@ -1,0 +1,1 @@
+# Car-resale-value-prediction-using-simple-linear-regression-model
